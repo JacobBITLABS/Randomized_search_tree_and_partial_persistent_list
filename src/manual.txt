@@ -1,0 +1,10 @@
+Main.py can be sparsely used, but it is NOT good and covering. 
+The main_test.py for the LinkedList and the rst.py for the RST, is much better at displaying semantics. 
+I am aware that a part of the task was implementing a good client - apologies for that.
+
+main.py can be executed as: 
+python3 main.py RST input_rst.txt > out.txt
+
+or
+
+python3 main.py PLL input.txt
